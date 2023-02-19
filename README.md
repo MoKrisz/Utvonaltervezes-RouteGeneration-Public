@@ -1,6 +1,7 @@
-#######################################################   #################################################
-#   MAGYAR LEÍRÁS LENTEBB VAN, AZ ANGOL VERZIÓ ALATT  #   #   HUNGARIAN VERSION IS BELOW THE ENGLISH ONE  #
-#######################################################   #################################################
+########################################################################################################
+#   MAGYAR LEÍRÁS LENTEBB VAN, AZ ANGOL VERZIÓ ALATT  #   
+########################################################################################################
+#   HUNGARIAN VERSION IS BELOW THE ENGLISH ONE  #
 
 This is the public version of my thesis project. If you want to know more about this project, or if you want to discuss the code, please contact me.
 I made the code private, because I have tons of work put in it, and I (and my university teachers as well) see the potential in it that I could make it something bigger. 
